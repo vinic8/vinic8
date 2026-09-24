@@ -15,7 +15,7 @@
       <br/>
       <h3>Olá! Sou o Vinicius</h3>
       Acredito que a <b>Inteligência Artificial</b> mostra seu verdadeiro valor quando sai da teoria e resolve problemas reais.
-      Por isso, meu foco é unir <b>IA e automação</b> para criar soluções que aprendem, se adaptam e trabalham junto com as pessoas,
+      Por isso, meu foco e interesse é no que a <b>IA, ML e automação</b> possibilitam para criar soluções que aprendem, se adaptam e trabalham junto com as pessoas,
       tirando do caminho o que é repetitivo e abrindo espaço para o que é criativo.
       <br/><br/>
       <img src="./assets/icons/brain-circuit.svg" width="24" align="center" alt="" /> &nbsp;IA generativa, LLMs e agentes inteligentes<br/><br/>
@@ -26,6 +26,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub>Os projetos dos meus repositórios foram desenvolvidos para atividades da faculdade.</sub>
+</p>
 
 <p align="center"><img src="./assets/t-tech.svg" width="100%" alt="Tecnologias" /></p>
 
@@ -41,10 +45,6 @@
 
 <p align="center">
   <img src="./assets/evolution.svg" width="100%" alt="Evolução dos projetos" />
-</p>
-
-<p align="center">
-  <sub>Os projetos dos meus repositórios foram desenvolvidos para atividades da faculdade.</sub>
 </p>
 
 <p align="center"><img src="./assets/t-contato.svg" width="100%" alt="Contato" /></p>
