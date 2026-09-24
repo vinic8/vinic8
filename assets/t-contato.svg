@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 64" width="900" height="64">
+<style>.n{animation:p 2.4s ease-in-out infinite}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}</style>
+
+<path d="M390 34 H300 L286 22 H200 L186 34 H90" fill="none" stroke="#3a4049" stroke-width="2"/>
+<path d="M330 34 L318 46 H230" fill="none" stroke="#3a4049" stroke-width="2"/>
+<path d="M160 34 L148 22 H120" fill="none" stroke="#3a4049" stroke-width="2"/>
+<circle cx="230" cy="46" r="3.5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<circle cx="120" cy="22" r="3.5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<circle cx="286" cy="22" r="3" class="n" fill="#5ce1e6"/>
+<rect x="56" y="17" width="34" height="34" rx="5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<text x="72" y="39" text-anchor="middle" font-size="12" font-weight="700" fill="#a9b1bb" font-family="'Segoe UI', Helvetica, Arial, sans-serif">AI</text>
+<line x1="64" x2="64" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="64" x2="64" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/><line x1="72" x2="72" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="72" x2="72" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/><line x1="82" x2="82" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="82" x2="82" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/>
+<path d="M510 34 H600 L614 22 H700 L714 34 H810" fill="none" stroke="#3a4049" stroke-width="2"/>
+<path d="M570 34 L582 46 H670" fill="none" stroke="#3a4049" stroke-width="2"/>
+<path d="M740 34 L752 22 H780" fill="none" stroke="#3a4049" stroke-width="2"/>
+<circle cx="670" cy="46" r="3.5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<circle cx="780" cy="22" r="3.5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<circle cx="614" cy="22" r="3" class="n" fill="#5ce1e6"/>
+<rect x="810" y="17" width="34" height="34" rx="5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<text x="828" y="39" text-anchor="middle" font-size="12" font-weight="700" fill="#a9b1bb" font-family="'Segoe UI', Helvetica, Arial, sans-serif">AI</text>
+<line x1="818" x2="818" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="818" x2="818" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/><line x1="828" x2="828" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="828" x2="828" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/><line x1="836" x2="836" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="836" x2="836" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/>
+<text x="450" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#e6e9ed" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Contato</text></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 64" width="900" height="64">
+<style>.n{animation:p 2.4s ease-in-out infinite}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}</style>
+
+<path d="M376 34 H286 L272 22 H186 L172 34 H76" fill="none" stroke="#3a4049" stroke-width="2"/>
+<path d="M316 34 L304 46 H216" fill="none" stroke="#3a4049" stroke-width="2"/>
+<path d="M146 34 L134 22 H106" fill="none" stroke="#3a4049" stroke-width="2"/>
+<circle cx="216" cy="46" r="3.5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<circle cx="106" cy="22" r="3.5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<circle cx="272" cy="22" r="3" class="n" fill="#5ce1e6"/>
+<rect x="42" y="17" width="34" height="34" rx="5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<text x="60" y="39" text-anchor="middle" font-size="12" font-weight="700" fill="#a9b1bb" font-family="'Segoe UI', Helvetica, Arial, sans-serif">AI</text>
+<line x1="50" x2="50" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="50" x2="50" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/><line x1="60" x2="60" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="60" x2="60" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/><line x1="68" x2="68" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="68" x2="68" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/>
+<path d="M524 34 H614 L628 22 H714 L728 34 H824" fill="none" stroke="#3a4049" stroke-width="2"/>
+<path d="M584 34 L596 46 H684" fill="none" stroke="#3a4049" stroke-width="2"/>
+<path d="M754 34 L766 22 H794" fill="none" stroke="#3a4049" stroke-width="2"/>
+<circle cx="684" cy="46" r="3.5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<circle cx="794" cy="22" r="3.5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<circle cx="628" cy="22" r="3" class="n" fill="#5ce1e6"/>
+<rect x="824" y="17" width="34" height="34" rx="5" fill="#1f2329" stroke="#a9b1bb" stroke-width="1.5"/>
+<text x="840" y="39" text-anchor="middle" font-size="12" font-weight="700" fill="#a9b1bb" font-family="'Segoe UI', Helvetica, Arial, sans-serif">AI</text>
+<line x1="832" x2="832" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="832" x2="832" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/><line x1="840" x2="840" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="840" x2="840" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/><line x1="850" x2="850" y1="17" y2="12" stroke="#a9b1bb" stroke-width="1.5"/><line x1="850" x2="850" y1="51" y2="56" stroke="#a9b1bb" stroke-width="1.5"/>
+<text x="450" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#e6e9ed" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Atividade</text></svg>
