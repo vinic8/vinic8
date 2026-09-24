@@ -12,21 +12,20 @@
       <img src="./assets/avatar.svg" width="230" alt="Avatar" />
     </td>
     <td width="64%" valign="middle">
+      <br/>
       <h3>Olá! Sou o Vinicius</h3>
-      Sou interessado por <b>Inteligência Artificial</b> e pelo que ela é capaz de fazer quando encontra a <b>automação</b>:
-      transformar tarefas repetitivas em fluxos inteligentes e liberar tempo para o que realmente importa.
+      Acredito que a <b>Inteligência Artificial</b> mostra seu verdadeiro valor quando sai da teoria e resolve problemas reais.
+      Por isso, meu foco é unir <b>IA e automação</b> para criar soluções que aprendem, se adaptam e trabalham junto com as pessoas,
+      tirando do caminho o que é repetitivo e abrindo espaço para o que é criativo.
       <br/><br/>
       <img src="./assets/icons/brain-circuit.svg" width="24" align="center" alt="" /> &nbsp;IA generativa, LLMs e agentes inteligentes<br/><br/>
       <img src="./assets/icons/workflow.svg" width="24" align="center" alt="" /> &nbsp;Automação de processos com IA<br/><br/>
       <img src="./assets/icons/chart-line.svg" width="24" align="center" alt="" /> &nbsp;Machine Learning e análise de dados<br/><br/>
-      <img src="./assets/icons/rocket.svg" width="24" align="center" alt="" /> &nbsp;Sempre explorando uma ferramenta nova
+      <img src="./assets/icons/rocket.svg" width="24" align="center" alt="" /> &nbsp;Curiosidade constante por novas ferramentas
+      <br/><br/>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>Os projetos dos meus repositórios foram desenvolvidos para atividades da faculdade.</sub>
-</p>
 
 <p align="center"><img src="./assets/t-tech.svg" width="100%" alt="Tecnologias" /></p>
 
@@ -42,6 +41,10 @@
 
 <p align="center">
   <img src="./assets/evolution.svg" width="100%" alt="Evolução dos projetos" />
+</p>
+
+<p align="center">
+  <sub>Os projetos dos meus repositórios foram desenvolvidos para atividades da faculdade.</sub>
 </p>
 
 <p align="center"><img src="./assets/t-contato.svg" width="100%" alt="Contato" /></p>
