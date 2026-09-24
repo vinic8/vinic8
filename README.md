@@ -13,7 +13,7 @@
     </td>
     <td width="64%" valign="middle">
       <h3>Olá! Sou o Vinicius</h3>
-      Sou apaixonado por <b>Inteligência Artificial</b> e pelo que ela é capaz de fazer quando encontra a <b>automação</b>:
+      Sou interessado por <b>Inteligência Artificial</b> e pelo que ela é capaz de fazer quando encontra a <b>automação</b>:
       transformar tarefas repetitivas em fluxos inteligentes e liberar tempo para o que realmente importa.
       <br/><br/>
       <img src="./assets/icons/brain-circuit.svg" width="24" align="center" alt="" /> &nbsp;IA generativa, LLMs e agentes inteligentes<br/><br/>
@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-molena-9291ab3b0"><img src="./assets/linkedin.svg" height="32" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:vgmolena@gmail.com"><img src="./assets/email.svg" height="32" alt="Gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=vgmolena@gmail.com"><img src="./assets/email.svg" height="32" alt="Gmail" /></a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
