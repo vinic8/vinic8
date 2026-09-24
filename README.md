@@ -21,6 +21,7 @@
       <img src="./assets/icons/brain-circuit.svg" width="24" align="center" alt="" /> &nbsp;IA generativa, LLMs e agentes inteligentes<br/><br/>
       <img src="./assets/icons/workflow.svg" width="24" align="center" alt="" /> &nbsp;Automação de processos com IA<br/><br/>
       <img src="./assets/icons/chart-line.svg" width="24" align="center" alt="" /> &nbsp;Machine Learning e análise de dados<br/><br/>
+      <img src="./assets/icons/graduation-cap.svg" width="24" align="center" alt="" /> &nbsp;Aprendizado e estudo constante
       <img src="./assets/icons/rocket.svg" width="24" align="center" alt="" /> &nbsp;Curiosidade constante por novas ferramentas
       <br/><br/>
     </td>
