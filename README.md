@@ -29,7 +29,7 @@
 </table>
 
 <p align="center">
-  <sub>Os projetos dos meus repositórios foram desenvolvidos para atividades da faculdade.</sub>
+  <sub>Os projetos até então dos meus repositórios foram desenvolvidos para atividades da faculdade, porém tenho projetos em criação e ideias que ainda não foram iniciadas, serve de convite pra visitar meu perfil no futuro :D.</sub>
 </p>
 
 <p align="center"><img src="./assets/t-tech.svg" width="100%" alt="Tecnologias" /></p>
