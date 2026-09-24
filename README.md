@@ -4,7 +4,7 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-<h2 align="center">Sobre mim</h2>
+<p align="center"><img src="./assets/t-sobre.svg" width="100%" alt="Sobre mim" /></p>
 
 <table align="center">
   <tr>
@@ -12,33 +12,44 @@
       <img src="./assets/avatar.svg" width="230" alt="Avatar" />
     </td>
     <td width="64%" valign="middle">
-      <h3>Olá! Sou o Vinicius 👋</h3>
-      Sou apaixonado por <b>Inteligência Artificial</b> e por como ela pode <b>automatizar tarefas e processos</b> do dia a dia.
+      <h3>Olá! Sou o Vinicius</h3>
+      Sou apaixonado por <b>Inteligência Artificial</b> e pelo que ela é capaz de fazer quando encontra a <b>automação</b>:
+      transformar tarefas repetitivas em fluxos inteligentes e liberar tempo para o que realmente importa.
       <br/><br/>
-      🤖 &nbsp;IA generativa, LLMs e agentes<br/>
-      ⚙️ &nbsp;Automação de processos com IA<br/>
-      📊 &nbsp;Machine Learning e análise de dados<br/>
-      🌱 &nbsp;Sempre aprendendo algo novo
+      <img src="./assets/icons/brain-circuit.svg" width="24" align="center" alt="" /> &nbsp;IA generativa, LLMs e agentes inteligentes<br/><br/>
+      <img src="./assets/icons/workflow.svg" width="24" align="center" alt="" /> &nbsp;Automação de processos com IA<br/><br/>
+      <img src="./assets/icons/chart-line.svg" width="24" align="center" alt="" /> &nbsp;Machine Learning e análise de dados<br/><br/>
+      <img src="./assets/icons/rocket.svg" width="24" align="center" alt="" /> &nbsp;Sempre explorando uma ferramenta nova
     </td>
   </tr>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
-
-<h2 align="center">Tecnologias</h2>
+<p align="center"><img src="./assets/t-tech.svg" width="100%" alt="Tecnologias" /></p>
 
 <p align="center">
-  <img src="./assets/tech.svg" width="100%" alt="Python, HTML5, Jupyter, Pandas, NumPy, scikit-learn, LangChain, Ollama, Git" />
+  <img src="./assets/tech.svg" height="56" alt="Python, HTML5, Google Colab, Pandas, NumPy, scikit-learn, LangChain, Ollama, Git" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
-
-<h2 align="center">Contato</h2>
+<p align="center"><img src="./assets/t-atividade.svg" width="100%" alt="Atividade" /></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-molena-9291ab3b0"><img src="./assets/linkedin.svg" height="52" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com"><img src="./assets/email.svg" height="52" alt="E-mail" /></a>
+  <img src="./assets/contributions.svg" width="100%" alt="Gráfico de contribuições" />
+</p>
+
+<p align="center">
+  <img src="./assets/evolution.svg" width="100%" alt="Evolução dos projetos" />
+</p>
+
+<p align="center">
+  <sub>Os projetos dos meus repositórios foram desenvolvidos para atividades da faculdade.</sub>
+</p>
+
+<p align="center"><img src="./assets/t-contato.svg" width="100%" alt="Contato" /></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-molena-9291ab3b0"><img src="./assets/linkedin.svg" height="32" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:vgmolena@gmail.com"><img src="./assets/email.svg" height="32" alt="Gmail" /></a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
