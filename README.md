@@ -24,6 +24,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <sub>Os projetos dos meus repositórios foram desenvolvidos para atividades da faculdade.</sub>
+</p>
+
 <p align="center"><img src="./assets/t-tech.svg" width="100%" alt="Tecnologias" /></p>
 
 <p align="center">
@@ -38,10 +42,6 @@
 
 <p align="center">
   <img src="./assets/evolution.svg" width="100%" alt="Evolução dos projetos" />
-</p>
-
-<p align="center">
-  <sub>Os projetos dos meus repositórios foram desenvolvidos para atividades da faculdade.</sub>
 </p>
 
 <p align="center"><img src="./assets/t-contato.svg" width="100%" alt="Contato" /></p>
